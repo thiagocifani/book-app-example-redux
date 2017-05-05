@@ -1,8 +1,8 @@
 export default function() {
   return [
-    { title: 'Harry Potter'},
-    { title: 'Bible'},
-    { title: 'The Dark Tower'},
-    { title: 'Eloquent Ruby'}
+    { title: 'Harry Potter', pages: 131},
+    { title: 'Bible', pages: 140},
+    { title: 'The Dark Tower', pages: 100},
+    { title: 'Eloquent Ruby', pages: 1}
   ];
 }
